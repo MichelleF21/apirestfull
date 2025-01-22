@@ -2,7 +2,7 @@
 
 * Un mini proyecto bastante sencillo con su base de datos.
 * Se probo usando la extensión de visual studio code llamada Thunder Client.
-* Es un Api muy simple que a su vez tiene un CRUD el cual se puede probar
+* Es una Api muy simple que a su vez tiene un CRUD el cual se puede probar
 
 # Se utilizo
 
